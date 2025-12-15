@@ -144,7 +144,7 @@ def generate_interview_guide(company_name: str, job_role: str, facts: str) -> st
 st.set_page_config(page_title="Interview Prep AI", page_icon="🤖", layout="wide")
 
 st.title("🤖 AI Interview Preparation Assistant")
-st.markdown("This app uses **Groq Llama 3** for intelligence and **Serper.dev** for real-time web data 🌐")
+st.markdown("This app used to know details about the Job and company reviews")
 
 st.divider()
 
